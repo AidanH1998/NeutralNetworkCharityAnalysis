@@ -8,3 +8,5 @@ Using Machine Learning and Neural Networks we are able to predict if the aplicat
 
 ## Results ##
 
+### Data Preprocessing ### 
+
